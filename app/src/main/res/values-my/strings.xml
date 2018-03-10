@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ဘာသာစကားေျပာင္းလဲရန္</string>
+    <string name="eng1">အုတ္ဖို</string>
+    <string name="eng2">ျပည္</string>
+    <string name="btn1">အဂၤလိပ္</string>
+    <string name="btn2">ျမန္မာ</string>
+
+</resources>

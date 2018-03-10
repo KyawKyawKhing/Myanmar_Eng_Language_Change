@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Myan_Eng_Language_Change</string>
+    <string name="eng1">Okpo</string>
+    <string name="eng2">Pyay</string>
+    <string name="btn1">English</string>
+    <string name="btn2">Myanmar</string>
+
+</resources>
